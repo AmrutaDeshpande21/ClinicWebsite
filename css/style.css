@@ -844,7 +844,7 @@ responsive area
         margin-top: -60px;
     }
     .carousel-caption h1 {
-        font-size: 60px;
+        font-size: 30px;
     }
     .carousel-caption p {
         font-size: 12px;
@@ -931,6 +931,6 @@ responsive area
     }
     h5{
         text-align: right;
-        font-size: 10px;
+        font-size: large;
     }
 }
