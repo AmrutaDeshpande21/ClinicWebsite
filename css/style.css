@@ -177,7 +177,10 @@ h5{
 h2{
     font-size: 40px;
 }
-
+.img-responsive-logo
+{
+    max-width: 100%;
+}
 /*about area*/
 
 .about h2 {
@@ -198,6 +201,7 @@ h2{
     height:460;
     border: 5px #42b3e5 solid ;
     padding: 10px;
+    float: right;
 
 }
 
@@ -931,6 +935,6 @@ responsive area
     }
     h5{
         text-align: right;
-        font-size: large;
+        font-size: x-large;
     }
 }
